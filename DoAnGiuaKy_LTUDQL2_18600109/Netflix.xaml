@@ -24,13 +24,12 @@
             </Grid.RowDefinitions>
 
 
-
             <TextBlock Margin="20,0,0,0"  FontSize="45" HorizontalAlignment="Left" Foreground="Red">Nextflix</TextBlock>
 
-            <Border BorderBrush="Black" BorderThickness="0">
+            
                 <Grid>
 
-                    <Button Margin="350,0,0,0" Width="150" Height="50"  Content="Trang Chủ" FontSize="15" HorizontalAlignment="Left" Foreground="Wheat" Name ="TrangChu" Click="TrangChu_Click">
+                    <Button Margin="300,0,0,0" Width="150" Height="50"  Content="Trang Chủ" FontSize="15" HorizontalAlignment="Left" Foreground="Wheat" Name ="TrangChu" Click="TrangChu_Click">
                         <Button.BorderBrush>
 
                             <LinearGradientBrush StartPoint="0,0" EndPoint="1,1" >
@@ -99,40 +98,6 @@
 
 
 
-                    <!--<StackPanel>
-                        <TextBox>
-                            <TextBox.Triggers>
-                                <EventTrigger RoutedEvent="GotFocus">
-                                    <BeginStoryboard>
-                                        <Storyboard>
-                                            <DoubleAnimation Duration="0:0:0"
-                              Storyboard.TargetName="lb"
-                              Storyboard.TargetProperty="(ListBox.Opacity)"
-                              To="1" />
-                                        </Storyboard>
-                                    </BeginStoryboard>
-                                </EventTrigger>
-                                <EventTrigger RoutedEvent="LostFocus">
-                                    <BeginStoryboard>
-                                        <Storyboard>
-                                            <DoubleAnimation Duration="0:0:0"
-                              Storyboard.TargetName="lb"
-                              Storyboard.TargetProperty="(ListBox.Opacity)"
-                              To="0" />
-                                        </Storyboard>
-                                    </BeginStoryboard>
-                                </EventTrigger>
-                            </TextBox.Triggers>
-                        </TextBox>
-                        <ListBox x:Name="lb" Opacity="0">
-                            <ListBoxItem Content="A" />
-                            <ListBoxItem Content="B" />
-                        </ListBox>
-                    </StackPanel>-->
-                    
-                    
-                    
-                    
                     <Button Margin="1040,0,0,0"  FontSize="25" HorizontalAlignment="Left" Foreground="White" Background="{x:Null}">
                         <Button.BorderBrush>
 
@@ -148,7 +113,7 @@
                         Đăng Xuất
                     </Button>
                 </Grid>
-            </Border>
+           
         </Grid>
 
         <ScrollViewer >

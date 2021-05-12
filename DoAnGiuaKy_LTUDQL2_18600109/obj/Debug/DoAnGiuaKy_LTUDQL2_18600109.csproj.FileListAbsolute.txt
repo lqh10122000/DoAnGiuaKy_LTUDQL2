@@ -54,3 +54,30 @@ E:\Các Bài Tập\BT LTUDQL 2\DoAnGiuaKy_LTUDQL2_18600109\DoAnGiuaKy_LTUDQL2_18
 E:\Các Bài Tập\BT LTUDQL 2\DoAnGiuaKy_LTUDQL2_18600109\DoAnGiuaKy_LTUDQL2_18600109\bin\Debug\MaterialDesignThemes.Wpf.pdb
 E:\Các Bài Tập\BT LTUDQL 2\DoAnGiuaKy_LTUDQL2_18600109\DoAnGiuaKy_LTUDQL2_18600109\bin\Debug\MaterialDesignThemes.Wpf.xml
 E:\Các Bài Tập\BT LTUDQL 2\DoAnGiuaKy_LTUDQL2_18600109\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\DoAnGiuaKy_LTUDQL2_18600109.csproj.CopyComplete
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\bin\Debug\DoAnGiuaKy_LTUDQL2_18600109.exe.config
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\bin\Debug\DoAnGiuaKy_LTUDQL2_18600109.exe
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\bin\Debug\DoAnGiuaKy_LTUDQL2_18600109.pdb
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\bin\Debug\MaterialDesignColors.dll
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\bin\Debug\MaterialDesignColors.pdb
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\DoAnGiuaKy_LTUDQL2_18600109.csprojAssemblyReference.cache
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\Login.g.cs
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\MainWindow.g.cs
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\Netflix.g.cs
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\App.g.cs
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\DoAnGiuaKy_LTUDQL2_18600109_MarkupCompile.cache
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\DoAnGiuaKy_LTUDQL2_18600109_MarkupCompile.lref
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\Login.baml
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\MainWindow.baml
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\Netflix.baml
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\DoAnGiuaKy_LTUDQL2_18600109.g.resources
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\DoAnGiuaKy_LTUDQL2_18600109.Properties.Resources.resources
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\DoAnGiuaKy_LTUDQL2_18600109.csproj.GenerateResource.cache
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\DoAnGiuaKy_LTUDQL2_18600109.csproj.CoreCompileInputs.cache
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\DoAnGiuaKy_LTUDQL2_18600109.csproj.CopyComplete
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\DoAnGiuaKy_LTUDQL2_18600109.exe
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\DoAnGiuaKy_LTUDQL2_18600109.pdb
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\ResetPassword.g.cs
+D:\Exercises\LTUDQL2\LT\DoAnGiuaKy_LTUDQL2\DoAnGiuaKy_LTUDQL2_18600109\obj\Debug\ResetPassword.baml

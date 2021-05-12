@@ -33,9 +33,9 @@ namespace DoAnGiuaKy_LTUDQL2_18600109
             textBoxFirstName.Text = "";
             textBoxLastName.Text = "";
             textBoxEmail.Text = "";
-            textBoxAddress.Text = "";
+            txtIDVisaCard.Text = "";
             passwordBox1.Password = "";
-            passwordBoxConfirm.Password = "";
+            txtLevel.Text = "";
         }
 
         private void Submit_Click(object sender, RoutedEventArgs e)
@@ -63,23 +63,14 @@ namespace DoAnGiuaKy_LTUDQL2_18600109
                     errormessage.Text = "Enter password.";
                     passwordBox1.Focus();
                 }
-                else if (passwordBoxConfirm.Password.Length == 0)
-                {
-                    errormessage.Text = "Enter Confirm password.";
-                    passwordBoxConfirm.Focus();
-                }
-                else if (passwordBox1.Password != passwordBoxConfirm.Password)
-                {
-                    errormessage.Text = "Confirm password must be same as password.";
-                    passwordBoxConfirm.Focus();
-                }
                 else
                 {
                     errormessage.Text = "";
-                    string address = textBoxAddress.Text;
+                    string payment = txtIDVisaCard.Text;
+                    string level = txtLevel.Text;
                     SqlConnection con = new SqlConnection("Data Source=TESTPURU;Initial Catalog=Data;User ID=sa;Password=wintellect");
                     con.Open();
-                    SqlCommand cmd = new SqlCommand("Insert into Registration (FirstName,LastName,Email,Password,Address) values('" + firstname + "','" + lastname + "','" + email + "','" + password + "','" + address + "')", con);
+                    SqlCommand cmd = new SqlCommand("Insert into users (FirstName,LastName,Email,Password,Level,Payment) values('" + firstname + "','" + lastname + "','" + email + "','" + password + "','" + level + ',' + payment + "')", con);
                     cmd.CommandType = CommandType.Text;
                     cmd.ExecuteNonQuery();
                     con.Close();
@@ -99,14 +90,14 @@ namespace DoAnGiuaKy_LTUDQL2_18600109
 
 
 
-        private void button3_Click(object sender, RoutedEventArgs e)
+        private void Cancel_Click(object sender, RoutedEventArgs e)
         {
             Netflix netflix = new Netflix();
             netflix.Show();
             Close();
         }
 
-        private void button2_Click(object sender, RoutedEventArgs e)
+        private void Reset_Click(object sender, RoutedEventArgs e)
         {
             Reset();
         }
